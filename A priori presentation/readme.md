@@ -1,11 +1,5 @@
 ### A Priori Algorithm
 
-**Repository name suggestion**  
-`a-priori-algorithm`
-
-**Short description**  
-Python implementation and educational notes for the A Priori algorithm for frequent itemset mining and association rules.
-
 ---
 
 # README
